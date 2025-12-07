@@ -46,15 +46,13 @@ This project was created as part of a team assignment to demonstrate UI design, 
 
 ### 🏠 Home Screen
 
-```
-[Add Screenshot Here]
-```
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/4a4c61b0-30fb-4393-b1f7-6abfe66a47cb" />
+
 
 ### 🎯 Game Screen
 
-```
-[Add Screenshot Here]
-```
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/9635383f-d5e1-4ff7-b57e-991ada28cead" />
+
 
 ---
 

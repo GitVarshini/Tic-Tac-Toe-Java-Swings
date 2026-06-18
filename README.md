@@ -126,7 +126,12 @@ java TicTacToe
 * Add 5×5 or 4×4 extended mode
 
 ---
+## CONTRIBUTERS
 
+* KSHETRAGNA(24WH1A05L8)
+* SRI VARSHINI(24WH1A05L8)
+* J CHETANA
+*AISHWARYA
 ## ⭐ If you like this project…
 
 Consider giving the repository a **Star ⭐** on GitHub!

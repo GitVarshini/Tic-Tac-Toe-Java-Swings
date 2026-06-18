@@ -130,8 +130,8 @@ java TicTacToe
 
 * KSHETRAGNA(24WH1A05L8)
 * SRI VARSHINI(24WH1A05L8)
-* J CHETANA
-*AISHWARYA
+* J CHETANA(24WH1A05P5)
+* AISHWARYA(24WH1A05P4)
 ## ⭐ If you like this project…
 
 Consider giving the repository a **Star ⭐** on GitHub!
